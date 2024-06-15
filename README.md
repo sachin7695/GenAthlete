@@ -40,4 +40,4 @@ A range of Nike shoes similar to the ones LeBron is wearing.<br>
 Complementary accessories like hats or backpacks that match the overall style.<br>
 Virtual Try-On: Alex can use a 3D model technology to virtually try on the recommended Nike products. This allows him to see how an outfit would look on him before purchasing it.
 
-![Image description]("E:\ML\ml_projects\project_folder\genAI\image.png)
+![Image description]("E:\ML\ml_projects\project_folder\genAI\image.png")
