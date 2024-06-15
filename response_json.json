@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Nike Men's Dri-FIT UV Miler Short-Sleeve Running Top",
+        "Price": "$29.99",
+        "Rating": "4.5",
+        "ProductImage": "https://dks.scene7.com/is/image/GolfGalaxy/22NIKMMNKDFVMLRSSAPT_Deep_Jungle"
+    },
+    {
+        "Name": "Nike Dri-FIT Cap",
+        "Price": "$19.99",
+        "Rating": "4.1",
+        "ProductImage": "https://dks.scene7.com/is/image/dkscdn/23NIKANKDFDVFLYCPCPS_White"
+    },
+    {
+        "Name": "Nike Dri-Fit head band",
+        "Price": "$17.99",
+        "Rating": "3.9",
+        "ProductImage": "https://dks.scene7.com/is/image/dkscdn/21NIKUNKDRFTHDT40GAA_Black_White"
+    },
+    {
+        "Name": "Nike Racing Pants",
+        "Price": "$56.99",
+        "Rating": "4.8",
+        "ProductImage": "https://dks.scene7.com/is/image/dkscdn/22NIKMMNKDFFSTPNTAPB_Black"
+    }
+]
