@@ -41,6 +41,3 @@ Complementary accessories like hats or backpacks that match the overall style.<b
 Virtual Try-On: Alex can use a 3D model technology to virtually try on the recommended Nike products. This allows him to see how an outfit would look on him before purchasing it.
 
 ![Image description]("E:\ML\ml_projects\project_folder\genAI\image.png")
-<br>
-**Demo of the Application**<br>
-https://drive.google.com/file/d/1iNOmrk0gx5vOqmswtYSW4nqOGtEEURvE/view?usp=sharing
